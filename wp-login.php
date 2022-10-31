@@ -94,7 +94,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="https://chupashark1107.github.io/My-Wordpress/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"f2a2edfb07"};
+var userProfileL10n = {"user_id":"0","nonce":"24ac28569a"};
 </script>
 <script src="https://chupashark1107.github.io/My-Wordpress/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 	<div class="clear"></div>
